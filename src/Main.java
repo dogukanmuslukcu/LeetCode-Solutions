@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-	int nums[] = new int[]{ 0,1};
+	
               Arrays.sort(nums);
               int x = 0;
               boolean check1 = true;
